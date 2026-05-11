@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Jihun Jeong 👋
 
-<!--
-**doksakim7/doksakim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer specializing in Java & Spring Boot.
 
-Here are some ideas to get you started:
+Interested in backend architecture, concurrency control, and scalable system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+
+### Database & Infra
+- MySQL
+- Redis
+- Docker
+- AWS (EC2, RDS)
+
+### Tools
+- GitHub Actions
+- IntelliJ IDEA
+- Postman
+
+---
+
+## 📌 Projects
+
+### 🌾 Agri Commerce Platform
+E-commerce backend platform focused on concurrency control, Redis caching, and coupon/time-sale systems.
+
+**Tech**
+- Spring Boot
+- Redis
+- MySQL
+- Docker
+- AWS
+
+---
+
+### 💳 Payment System Project
+Backend payment system project with membership, point management, and transaction handling.
+
+**Tech**
+- Spring Boot
+- JPA
+- MySQL
+
+---
+
+### ☕ Coffee Order System
+Multi-server coffee ordering system focused on distributed lock and real-time ranking using Redis and Kafka.
+
+**Tech**
+- Spring Boot
+- Redis
+- Kafka
+- Docker
+
+---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Kafka
+- Concurrency Control
+- Cloud Infrastructure
+
+---
+
+## 🔗 Links
+
+- Velog: https://velog.io/@jhsky3118/posts
