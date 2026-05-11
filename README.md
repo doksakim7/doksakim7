@@ -74,4 +74,4 @@ Multi-server coffee ordering system focused on distributed lock and real-time ra
 ## 🔗 Links
 
 - Velog: https://velog.io/@jhsky3118/posts
-- backend-portfolio: https://github.com/doksakim7/backend-portfolio/blob/main/README.md
+- Backend Portfolio: https://github.com/doksakim7/backend-portfolio
