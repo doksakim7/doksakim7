@@ -2,7 +2,7 @@
 
 Junior Backend Developer specializing in Java & Spring Boot.
 
-Interested in backend architecture, concurrency control, and scalable system design.
+Interested in transaction consistency, concurrency control, event-driven architecture, and scalable backend systems.
 
 ---
 
@@ -34,8 +34,9 @@ Interested in backend architecture, concurrency control, and scalable system des
 
 ## 📌 Projects
 
-### 🛒 OneStop
+### 🛒 [OneStop](https://github.com/one-stop-project/one-stop-backend)
 Hybrid e-commerce platform combining a Coupang-style marketplace with a seller onboarding system, focused on concurrency control, event-driven architecture, and AI-powered shopping features.
+
 **Tech**
 - Spring Boot
 - Redis / Redisson
@@ -44,9 +45,11 @@ Hybrid e-commerce platform combining a Coupang-style marketplace with a seller o
 - Docker
 - AWS
 
+**Contribution:** Designed and implemented the cart, order, payment, coupon, and notification domains, including multiple concurrency-control strategies
+
 ---
 
-### 🌾 Agri Commerce Platform
+### 🌾 [Agri Commerce Platform](https://github.com/Agricultural-E-commerce-Platform/Agricultural-E-commerce-Platform)
 E-commerce backend platform focused on concurrency control, Redis caching, and coupon/time-sale systems.
 
 **Tech**
@@ -56,10 +59,12 @@ E-commerce backend platform focused on concurrency control, Redis caching, and c
 - Docker
 - AWS
 
+**Contribution:** Team leadership, JWT authentication, AWS infrastructure, and CI/CD
+
 ---
 
-### ☕ Coffee Order System
-Multi-server coffee ordering system focused on distributed lock and real-time ranking using Redis and Kafka.
+### ☕ [Coffee Order System](https://github.com/doksakim7/Personal-Coffee-Project)
+Multi-server coffee ordering system focused on Redis-based distributed locking, Redis ZSet-based ranking, and Kafka-based asynchronous event processing.
 
 **Tech**
 - Spring Boot
@@ -67,14 +72,16 @@ Multi-server coffee ordering system focused on distributed lock and real-time ra
 - Kafka
 - Docker
 
+**Contribution:** Designed and implemented the complete backend system
+
 ---
 
 ## 📚 Currently Learning
 
-- Frontend Fundamentals — aiming for Full-stack capability
+- React and frontend fundamentals for full-stack service development
 - Spring AI (LLM integration, tool calling)
 - Monitoring & Incident Response (Prometheus, Grafana)
-- Performance Testing & Quantitative Analysis (k6, load test result interpretation)
+- Advanced Performance Analysis and Load Test Result Interpretation
 
 ---
 
