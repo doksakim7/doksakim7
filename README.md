@@ -81,10 +81,10 @@ Multi-server coffee ordering system focused on distributed lock and real-time ra
 
 ## 📚 Currently Learning
 
-- Distributed Systems
-- Kafka
-- Concurrency Control
-- Cloud Infrastructure
+- Frontend Fundamentals — aiming for Full-stack capability
+- Spring AI (LLM integration, tool calling)
+- Monitoring & Incident Response (Prometheus, Grafana)
+- Performance Testing & Quantitative Analysis (k6, load test result interpretation)
 
 ---
 
