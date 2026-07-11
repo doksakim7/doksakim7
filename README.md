@@ -58,16 +58,6 @@ E-commerce backend platform focused on concurrency control, Redis caching, and c
 
 ---
 
-### 💳 Payment System Project
-Backend payment system project with membership, point management, and transaction handling.
-
-**Tech**
-- Spring Boot
-- JPA
-- MySQL
-
----
-
 ### ☕ Coffee Order System
 Multi-server coffee ordering system focused on distributed lock and real-time ranking using Redis and Kafka.
 
